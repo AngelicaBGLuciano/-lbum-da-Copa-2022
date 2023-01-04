@@ -7,3 +7,8 @@ Ideias criativas:
 
 * O usuário irá começar com uma quantia de dinheiro, para ir comprando os envelopes.
 * Para ganhar mais moedas, o usuário poderá jogar alguns mini jogos.
+
+Autores:
+- Angélica B. G. Luciano
+- Tiago F. Soucek
+- Vitor Viana
